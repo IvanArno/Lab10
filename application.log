@@ -1,0 +1,128 @@
+2024-12-22 15:29:20 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 15:29:20 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 15:29:26 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Редактировать
+2024-12-22 15:29:29 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:29:29 [Thread-0] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:29:29 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:29:29 [Thread-1] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:29:30 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Печать
+2024-12-22 15:29:34 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Печать
+2024-12-22 15:29:36 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:29:36 [Thread-2] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:29:37 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:29:37 [Thread-3] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:29:38 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Открыть
+2024-12-22 15:29:38 [Thread-4] INFO  App$TThread - TThread started, type: 1
+2024-12-22 15:29:38 [Thread-4] INFO  App$SharedResource - Attempting to open XML file.
+2024-12-22 15:29:46 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:29:47 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:29:49 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:29:51 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:29:53 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Информация
+2024-12-22 15:35:12 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 15:35:13 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 15:35:34 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:35:35 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Редактировать
+2024-12-22 15:35:37 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:35:37 [Thread-0] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:35:37 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:35:37 [Thread-1] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:35:38 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:35:38 [Thread-2] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:35:40 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Редактировать
+2024-12-22 15:35:56 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:35:58 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:35:59 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:37:36 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 15:37:37 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 15:37:39 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:37:39 [Thread-0] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:37:39 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:37:39 [Thread-1] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:37:40 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:37:40 [Thread-2] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:37:47 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Редактировать
+2024-12-22 15:38:08 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Информация
+2024-12-22 15:38:15 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Информация
+2024-12-22 15:38:21 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Информация
+2024-12-22 15:38:25 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:38:25 [Thread-3] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:38:26 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Редактировать
+2024-12-22 15:38:28 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:38:29 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:43:07 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Редактировать
+2024-12-22 15:43:09 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:43:09 [Thread-0] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:43:09 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:43:09 [Thread-1] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:43:09 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:43:09 [Thread-2] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:43:10 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:43:10 [Thread-3] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:43:11 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:43:11 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:43:14 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Информация
+2024-12-22 15:43:17 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Открыть
+2024-12-22 15:43:17 [Thread-4] INFO  App$TThread - TThread started, type: 1
+2024-12-22 15:43:17 [Thread-4] INFO  App$SharedResource - Attempting to open XML file.
+2024-12-22 15:44:54 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:44:54 [Thread-0] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:44:55 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:44:55 [Thread-1] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:44:55 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:44:55 [Thread-2] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:44:55 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Добавить
+2024-12-22 15:44:55 [Thread-3] INFO  App$TThread - TThread started, type: 2
+2024-12-22 15:44:56 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:44:56 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Удалить
+2024-12-22 15:44:58 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Информация
+2024-12-22 15:45:00 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Информация
+2024-12-22 15:45:05 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Печать
+2024-12-22 15:46:02 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 15:46:03 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 15:50:57 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 15:50:57 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 15:51:01 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Открыть
+2024-12-22 15:51:01 [Thread-0] INFO  App$TThread - TThread started, type: 1
+2024-12-22 15:51:01 [Thread-0] INFO  App$SharedResource - Attempting to open XML file.
+2024-12-22 16:29:41 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 16:29:41 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 16:29:44 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Открыть
+2024-12-22 16:29:44 [Thread-0] INFO  App$TThread - TThread started, type: 1
+2024-12-22 16:29:44 [Thread-0] INFO  App$SharedResource - Attempting to open XML file.
+2024-12-22 16:29:45 [Thread-0] INFO  App - Starting open film list from text file.
+2024-12-22 16:29:49 [Thread-0] ERROR App - FileNotFoundException while opening file: 
+java.io.FileNotFoundException: C:\Users\iarna\OneDrive\Рабочий стол\прога\Java\Список фильмов\ger (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at edu.java.lab2.App.openFilmList(App.java:282)
+	at edu.java.lab2.App.chooseOpenFormat(App.java:588)
+	at edu.java.lab2.App$SharedResource.openXML(App.java:644)
+	at edu.java.lab2.App$TThread.run(App.java:614)
+2024-12-22 16:35:14 [main] INFO  App - Application started successfully
+2024-12-22 16:35:14 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 16:35:15 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 16:35:36 [main] INFO  App - Application close
+2024-12-22 16:35:36 [AWT-EventQueue-0] INFO  App - Starting application
+2024-12-22 16:35:36 [AWT-EventQueue-0] INFO  App - Application started successfully
+2024-12-22 16:35:40 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Открыть
+2024-12-22 16:35:40 [Thread-0] INFO  App$TThread - TThread started, type: 1
+2024-12-22 16:35:40 [Thread-0] INFO  App$SharedResource - Attempting to open XML file.
+2024-12-22 16:35:42 [AWT-EventQueue-0] INFO  App$ButtonListener - Button pressed: Открыть
+2024-12-22 16:35:42 [Thread-1] INFO  App$TThread - TThread started, type: 1
+2024-12-22 16:35:42 [Thread-1] INFO  App$SharedResource - Attempting to open XML file.
+2024-12-22 16:35:43 [Thread-1] INFO  App - Starting open film list from text file.
+2024-12-22 16:35:46 [Thread-1] ERROR App - FileNotFoundException while opening file: 
+java.io.FileNotFoundException: C:\Users\iarna\OneDrive\Рабочий стол\прога\Java\Список фильмов\vsdv (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:213)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:152)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at java.base/java.io.FileReader.<init>(FileReader.java:60)
+	at edu.java.lab2.App.openFilmList(App.java:282)
+	at edu.java.lab2.App.chooseOpenFormat(App.java:588)
+	at edu.java.lab2.App$SharedResource.openXML(App.java:644)
+	at edu.java.lab2.App$TThread.run(App.java:614)
